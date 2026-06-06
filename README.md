@@ -375,6 +375,10 @@ Testing was conducted using lake water samples over a 24-hour period with the Aq
 
 <div align="center">
 
+# License
+
+This project is developed for academic purposes at Universiti Teknologi PETRONAS (UTP). All rights reserved by ETP Group 19.
+
 **ETP Group 19 · MFB2102 · January 2026**
 
 *Achieving SDG 6 (Clean Water & Sanitation) and SDG 11 (Sustainable Cities & Communities)*
