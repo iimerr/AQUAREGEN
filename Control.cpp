@@ -1,3 +1,9 @@
+/* Fill in information from your Blynk Template here */
+#define BLYNK_TEMPLATE_ID "YOUR_TEMPLATE_ID"
+#define BLYNK_TEMPLATE_NAME "YOUR_PROJECT_NAME"
+#define BLYNK_AUTH_TOKEN "YOUR_AUTH_TOKEN"
+
+// Comment this out to disable prints and save space
 #define BLYNK_PRINT Serial
 
 #include <WiFi.h>
@@ -5,8 +11,8 @@
 #include <BlynkSimpleEsp32.h>
 
 // Your WiFi credentials.
-char ssid[] = "batu";
-char pass[] = "idenyupe";
+char ssid[] = "YOUR_WIFI_NAME";
+char pass[] = "YOUR_WIFI_PASSWORD";
 
 // --- MOTOR PIN DEFINITIONS ---
 // Left Motor (Driver 1)
