@@ -1,9 +1,3 @@
-/* Fill in information from your Blynk Template here */
-#define BLYNK_TEMPLATE_ID "TMPL6DOHbn2YH"
-#define BLYNK_TEMPLATE_NAME "boat project"
-#define BLYNK_AUTH_TOKEN "bsm6IF7CIlNCvybwnSpG_3gTT2hQ-j8h"
-
-// Comment this out to disable prints and save space
 #define BLYNK_PRINT Serial
 
 #include <WiFi.h>
